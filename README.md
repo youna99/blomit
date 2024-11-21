@@ -31,11 +31,6 @@ SeSAC 영등포 6기 웹 개발자 양성 과정 1차 팀 프로젝트 대상 �
 
 <br>
 
-- 내가 맡은 역할
-  - **header**: 직관적으로 보여줄 수 있는 navigation 기능
-  - **게시물 조회**: 카드 형식으로 전체 게시물을 한눈에 볼 수 있도록 설계하고, 글 중심으로 읽기 쉽게 구성 
-  - **댓글 CRUD**:  addEventListener, onclick, innerHTML 사용, 비동기 댓글 기능 구현
-
 ## 1. 개발 환경 
 #### Programming Languages
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
@@ -116,14 +111,21 @@ SeSAC 영등포 6기 웹 개발자 양성 과정 1차 팀 프로젝트 대상 �
  - [git 규칙](https://github.com/SeSAC-1st/SeSAC-1st/wiki/git-%EA%B7%9C%EC%B9%99)
    
 ## 5. 구현 기능(기능별)
- - 회원가입/로그인
-   
-	https://github.com/user-attachments/assets/987a4a03-f986-4334-81ed-23c5dcf68f0b
+### 회원가입/로그인
+<img src="https://github.com/user-attachments/assets/2b2a3378-ccc0-49b9-8936-41ec0aab6f91" width="700" /> <br>
+### 댓글, 검색, 페이지네이션
+<img src="https://github.com/user-attachments/assets/131d4e2e-21bf-42f5-bd91-e1c86c5dd703" width="700" /> <br>
+### 게시글 CRUD
+<img src="https://github.com/user-attachments/assets/186d18a4-807b-4b53-adcc-4c36b8564933" width="700" /> <br>
 
- - 댓글, 검색, 페이지네이션
-   
-	https://github.com/user-attachments/assets/c637be72-6484-42ab-94cf-9e3edebbe6ef
+## 6. 모바일 뷰
 
- - 게시글 CRUD
-   
-	https://github.com/user-attachments/assets/fd3e2784-0c50-4606-afa0-67202f794366
+| 전체 게시글                                                                                                                                 | 게시글 상세                                                                                                                                 | 게시글 작성                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/user-attachments/assets/05eb5379-f6c4-4e88-ad80-36e9d4d08696" width="250"/> | <img src="https://github.com/user-attachments/assets/595d34af-5ab9-436d-ba3f-2b7d19f03e40" width="250"/> | <img src="https://github.com/user-attachments/assets/17a81d49-be39-4546-9cb1-c0e1e4547ef7" width="250"/> |
+
+| **댓글, 대댓글**                                                                                                                   | **마이페이지**                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://github.com/user-attachments/assets/dfba261c-3db4-49a0-9a2a-bef5e12ea25a" width="300"/> | <img src="https://github.com/user-attachments/assets/1baba5fb-fdec-40d9-83d2-40cc61c7bd47" width="300"/> |
+
+
